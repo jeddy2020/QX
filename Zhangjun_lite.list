@@ -2,6 +2,7 @@
 # > 某些APP要清除缓存或者重新安装APP，拦截广告才会生效！  
 # > 28413761  收集整理
 # > 更新时间  2022.11.1
+# > 删除了夸克日报的视频推送域名：px.ucweb.com
 # > */  
 
 # > 光大银行阳光惠生活
@@ -221,7 +222,7 @@ host-keyword, cpu.baidu.com, reject
 host-keyword, caclick.baidu.com, reject
 host-keyword, rescn.u3.ucweb.com, reject
 host, safe.ucweb.com, reject
-host, px.ucweb.com, reject
+;host, px.ucweb.com, reject //这一条是夸克日报的视频推送域名
 host-keyword, editor.sm.cn, reject
 host-keyword, fc-video.cdn.bcebos.com, reject
 host-keyword, vs10.bj2ct.u3.ucweb.com, reject
