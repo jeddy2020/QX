@@ -789,7 +789,6 @@ host-keyword, insurance.lianwifi.com, reject
 host-keyword, config.51y5.net, reject
 host-keyword, static.wkanx.com, reject
 host-keyword, config.y5en.com, reject
-# > 今日头条，开了以后今日头条的关键字搜索被屏蔽
 host, dm.toutiao.com, reject
 host-keyword, ad.toutiao.com, reject
 host-keyword, clk.gentags.net, reject
