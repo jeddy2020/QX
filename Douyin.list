@@ -16,31 +16,31 @@ HOST-SUFFIX,pstatp.com,DouYin
 HOST-SUFFIX,snssdk.com,DouYin
 HOST-SUFFIX,toutiao.com,DouYin
 #新增如下域名：来自tkzc11
-host-suffix, amemv.com
-host-suffix, awemeughun.com
-host-suffix, douyincdn.com
-host-suffix, douyinvod.com
-host-suffix, douyinpic.com
-host-suffix, douyinstatic.com
-host-suffix, idouyinvod.com
-host-suffix, byteactivity.com
-host-suffix, bytecdn.cn
-host-suffix, bytecdn.com
-host-suffix, byteeffecttos.com
-host-suffix, bytegecko.com
-host-suffix, bytegoofy.com
-host-suffix, byteimg.com
-host-suffix, bytescm.com
-host-suffix, bytedance.com
-host-suffix, bytemastatic.com
-host-suffix, bytetos.com
-host-suffix, byteacctimg.com
-host-suffix, bytednsdoc.com
-host-suffix, ecombdapi.com
-host-suffix, ecombdimg.com
-host-suffix, ecombdstatic.com
-host-suffix, ibytedapm.com
-host-suffix, umeng.com
-host-suffix, xycdn.com
-host-suffix, zijieapi.com
-host-suffix, zjcdn.com
+host-suffix,amemv.com,DouYin
+host-suffix,awemeughun.com,DouYin
+host-suffix,douyincdn.com,DouYin
+host-suffix,douyinvod.com,DouYin
+host-suffix,douyinpic.com,DouYin
+host-suffix,douyinstatic.com,DouYin
+host-suffix,idouyinvod.com,DouYin
+host-suffix,byteactivity.com,DouYin
+host-suffix,bytecdn.cn,DouYin
+host-suffix,bytecdn.com,DouYin
+host-suffix,byteeffecttos.com,DouYin
+host-suffix,bytegecko.com,DouYin
+host-suffix,bytegoofy.com,DouYin
+host-suffix,byteimg.com,DouYin
+host-suffix,bytescm.com,DouYin
+host-suffix,bytedance.com,DouYin
+host-suffix,bytemastatic.com,DouYin
+host-suffix,bytetos.com,DouYin
+host-suffix,byteacctimg.com,DouYin
+host-suffix,bytednsdoc.com,DouYin
+host-suffix,ecombdapi.com,DouYin
+host-suffix,ecombdimg.com,DouYin
+host-suffix,ecombdstatic.com,DouYin
+host-suffix,ibytedapm.com,DouYin
+host-suffix,umeng.com,DouYin
+host-suffix,xycdn.com,DouYin
+host-suffix,zijieapi.com,DouYin
+host-suffix,zjcdn.com,DouYin
