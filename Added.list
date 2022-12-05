@@ -6,10 +6,25 @@
 //* 支持优化 iPad 版
 //商店地址：https://apps.apple.com/app/drama-flix/id6444657818
 //官网地址：https://hdo.app/
-
+//- 安装完成等待一下可自动变身
 //QuanX 去除广告规则
 # > HDOBOX去广告
 host-suffix, applovin.com, reject
 host-suffix, applvn.com, reject
 host-suffix, doubleclick.net, reject
-//- 安装完成等待一下可自动变身
+
+//其他积累的去广告规则
+host, wostore.cn, reject
+host, miaozhen.com, reject
+host-keyword, jpush, reject
+host, aoscdn.amap.com, reject
+host, aos-cdn-image.amap.com, reject
+host, pdf.diyiedu.com, reject
+host-keyword, zcyybs, reject
+host-keyword, bytelee, reject
+host-keyword, adxqd, reject
+host-keyword, adtaipo, reject
+host-keyword, youshiad, reject
+host-keyword, admobile, reject
+host-keyword, qianyiyule, reject
+host, amap-aos-info-nogw.amap.com, reject
