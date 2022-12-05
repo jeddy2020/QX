@@ -1,0 +1,15 @@
+//#影视APP  #HDOBOX  #套壳上架
+//流媒体终结者 Hdo
+//* 采集 8 家国外流媒体平台资源
+//* 支持切换清晰度，最高 1080P
+//* 支持设置中文字幕
+//* 支持优化 iPad 版
+//商店地址：https://apps.apple.com/app/drama-flix/id6444657818
+//官网地址：https://hdo.app/
+
+//QuanX 去除广告规则
+# > HDOBOX去广告
+host-suffix, applovin.com, reject
+host-suffix, applvn.com, reject
+host-suffix, doubleclick.net, reject
+//- 安装完成等待一下可自动变身
