@@ -68,13 +68,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-3fb71f896836.js"></script>
   
 
-  <title>Scripts/bdcloud.js at master · ddgksf2013/Scripts</title>
+  <title>Scripts/amap.js at master · ddgksf2013/Scripts</title>
 
 
 
     
 
-  <meta name="request-id" content="C6C4:1ACA:21DAE5:2D760B:63B68E29" data-turbo-transient="true" /><meta name="html-safe-nonce" content="d2318bc1d3a9fcdf14bbb53888c750c0ed1be51ea3a8d398f7cbdb702f6e39dd" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9kZGdrc2YyMDEzL1NjcmlwdHMiLCJyZXF1ZXN0X2lkIjoiQzZDNDoxQUNBOjIxREFFNToyRDc2MEI6NjNCNjhFMjkiLCJ2aXNpdG9yX2lkIjoiNTU3Mzc2ODEwNDY2OTcwODM5MiIsInJlZ2lvbl9lZGdlIjoiamFwYW5lYXN0IiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="11b3477feaebdb4723949f20adba74a4abb21e07de0f3813a4450a0f7d2d9bfb" data-turbo-transient="true" />
+  <meta name="request-id" content="C6C4:1ACA:21D5B8:2D6FCD:63B68DFE" data-turbo-transient="true" /><meta name="html-safe-nonce" content="d2318bc1d3a9fcdf14bbb53888c750c0ed1be51ea3a8d398f7cbdb702f6e39dd" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9kZGdrc2YyMDEzL1NjcmlwdHMiLCJyZXF1ZXN0X2lkIjoiQzZDNDoxQUNBOjIxRDVCODoyRDZGQ0Q6NjNCNjhERkUiLCJ2aXNpdG9yX2lkIjoiNTU3Mzc2ODEwNDY2OTcwODM5MiIsInJlZ2lvbl9lZGdlIjoiamFwYW5lYXN0IiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="0bf324f0116316b575bb661618054dbcf14a4d5eee0302c5d4f6895f90b5cecc" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:572352256" data-turbo-transient>
@@ -113,11 +113,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/7c1ae1c96c79cbe7ef505a295cf2f5fa52e3be2fd078269608fd2522afda90d8/ddgksf2013/Scripts" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Scripts/bdcloud.js at master · ddgksf2013/Scripts" /><meta name="twitter:description" content="Contribute to ddgksf2013/Scripts development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/7c1ae1c96c79cbe7ef505a295cf2f5fa52e3be2fd078269608fd2522afda90d8/ddgksf2013/Scripts" /><meta property="og:image:alt" content="Contribute to ddgksf2013/Scripts development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Scripts/bdcloud.js at master · ddgksf2013/Scripts" /><meta property="og:url" content="https://github.com/ddgksf2013/Scripts" /><meta property="og:description" content="Contribute to ddgksf2013/Scripts development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/7c1ae1c96c79cbe7ef505a295cf2f5fa52e3be2fd078269608fd2522afda90d8/ddgksf2013/Scripts" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Scripts/amap.js at master · ddgksf2013/Scripts" /><meta name="twitter:description" content="Contribute to ddgksf2013/Scripts development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/7c1ae1c96c79cbe7ef505a295cf2f5fa52e3be2fd078269608fd2522afda90d8/ddgksf2013/Scripts" /><meta property="og:image:alt" content="Contribute to ddgksf2013/Scripts development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Scripts/amap.js at master · ddgksf2013/Scripts" /><meta property="og:url" content="https://github.com/ddgksf2013/Scripts" /><meta property="og:description" content="Contribute to ddgksf2013/Scripts development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/62687832/ws?session=eyJ2IjoiVjMiLCJ1Ijo2MjY4NzgzMiwicyI6OTY1OTYxMjIzLCJjIjoxMjM3MDY3MzE5LCJ0IjoxNjcyOTA4MzM0fQ==--b3de88931a5c0eaa9c4703f501af16dbcb4414ef0cc24172e31d8a25f4fdab4f" data-refresh-url="/_alive" data-session-id="0e0fe2b2ba04080fc27746a0219fde1aeefdf0a926d33fbb89caa2860f83f2d9">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/62687832/ws?session=eyJ2IjoiVjMiLCJ1Ijo2MjY4NzgzMiwicyI6OTY1OTYxMjIzLCJjIjoyMjA5ODg2NzcsInQiOjE2NzI5MDgzMDl9--1ec2416803ee11e9a77284e83f4937195ae41cd82e7a61cb31aa9a4cb8796e1d" data-refresh-url="/_alive" data-session-id="0e0fe2b2ba04080fc27746a0219fde1aeefdf0a926d33fbb89caa2860f83f2d9">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -147,7 +147,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/ddgksf2013/Scripts/blob/master/bdcloud.js" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/ddgksf2013/Scripts/blob/master/amap.js" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -242,7 +242,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="Rq6tDrzTzVP6bUQ7yPW3bMAAFp8r4SMdjj28_WfEk2IlaFFiUQJxxE0L8bN0x9fhySK36UYLYSKsHCjQCFCEWQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="i6s1d4p-frG3ZgX_L92kGwKKOAx5XgWvUeOZvrvgf0PobckbZ6_CJgAAsHeT78SWC6iZehS0R5Bzwg2T1HRoeA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -441,7 +441,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;jeddy2020&quot;,&quot;originating_url&quot;:&quot;https://github.com/ddgksf2013/Scripts/blob/master/bdcloud.js&quot;,&quot;user_id&quot;:62687832}}" data-hydro-click-hmac="abdf604741818c5c81a2c52ef1a85fe584379f0821a2b7ad2c58ddfa36718ead" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;jeddy2020&quot;,&quot;originating_url&quot;:&quot;https://github.com/ddgksf2013/Scripts/blob/master/amap.js&quot;,&quot;user_id&quot;:62687832}}" data-hydro-click-hmac="18fd3138d0b26bda785d33b7692300eae76db87a728cc3386247c7e85496ef1c" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -449,7 +449,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/62687832?s=40&amp;v=4" width="20" height="20" alt="@jeddy2020" />
       jeddy2020
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9B_xZ_0cH4nBA8rGmI0THYXdBkfy5ny8ujuB09IGLU8V-z3H9mVG-ypTcjHezw1HOGICmLyh39V_Om-9tHtdGQ" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PD2gjPyQEQPzfLTdFCPHNmpBRWl-2HqLepiSnjadk6Td2Wws9-lIcRgsDCpSYdls1_5BtjCf2eK_mXzwUODj8g" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -484,7 +484,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NjI2ODc4MzIiLCJ0IjoxNjcyOTA4MzM0fQ==--7e1e742dce3697f05156bec368e62ddd4a69211de2e94f6678dbdce3b7596ee2" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NjI2ODc4MzIiLCJ0IjoxNjcyOTA4MzA5fQ==--bf225138e17dbc9a67eb9ed387a3716f8db7c3969980813ea2c42202ad47c575" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -642,7 +642,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/ddgksf2013/Scripts/blob/master/bdcloud.js
+      return-to=/ddgksf2013/Scripts/blob/master/amap.js
       user-id="62687832"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1609,7 +1609,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:572352256,&quot;originating_url&quot;:&quot;https://github.com/ddgksf2013/Scripts/blob/master/bdcloud.js&quot;,&quot;user_id&quot;:62687832}}" data-hydro-click-hmac="08d073f1d9f7500d2eb9eb97569e094cee7145dc637e2043a1371062adadc696" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:572352256,&quot;originating_url&quot;:&quot;https://github.com/ddgksf2013/Scripts/blob/master/amap.js&quot;,&quot;user_id&quot;:62687832}}" data-hydro-click-hmac="a79b7f71cafcf980aa13085b8d2eed227244385870565aeabe9c7efcb7dd8c45" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1661,7 +1661,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6-IDWxF6LxqqSMXtGmw-bzMs7IbHwgkw1pbHv6sUnZKEztoBj1e-H7gf9rymZH3Tnc8yzGOuLuK6L_XDZVQSgQ" autocomplete="off" />
+              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="HY2I6v0FcS7k6xGclOSXdWAfdrGmyqbVvwEetOqyFthyoVGwYyjgK_a8Is0o7NTJzvyo-wKmgQfTuCzIJPKZyw" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="572352256">
 
@@ -1779,7 +1779,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8MuLXSlpMhuly581OrR87RM08wEddW8f9JkUaTkU7uuf51IHt0SjHrecrGSGvD9RvdctS7kZSM2YICYV91Rh-A" autocomplete="off" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GMsKXto0iXF9J54-ANBUPx26qBcsByN84HQKJ3CgNcx359MERBkYdG9wrW-82BeDs1l2XYhrBK6MzThbvuC63w" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="572352256">
 
@@ -1930,7 +1930,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup">
-        <a icon="repo-forked" href="/ddgksf2013/Scripts/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:572352256,&quot;originating_url&quot;:&quot;https://github.com/ddgksf2013/Scripts/blob/master/bdcloud.js&quot;,&quot;user_id&quot;:62687832}}" data-hydro-click-hmac="cd8ef18d5498739fcbbd6ab576bd957f57fceb6f660d2371e79800ed24c92169" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of ddgksf2013/Scripts" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a icon="repo-forked" href="/ddgksf2013/Scripts/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:572352256,&quot;originating_url&quot;:&quot;https://github.com/ddgksf2013/Scripts/blob/master/amap.js&quot;,&quot;user_id&quot;:62687832}}" data-hydro-click-hmac="4cf6eadb9d45808c22cb98330618625d6f20f7a6929a02ea1cd2981a9992c19c" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of ddgksf2013/Scripts" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="37" data-view-component="true" class="Counter">37</span>
@@ -1948,13 +1948,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-f7ab9f">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-bfcc55">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-f7ab9f"
+        id="filter-menu-bfcc55"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1996,10 +1996,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/ddgksf2013/Scripts/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ciuXRjFYF9367S0epFGg9uLpfgL__lcR3jqPREZPfB9XOermfRHsxy8k0Rd4-o8c6Ns8QAI-Y5dnsW-7us0ACQ" autocomplete="off" />
-          <input type="hidden" value="h9CNnUKkQn1g9zsJWjreiDOn14uhmyDL37MuCgCAMwKiwvA9Du25Z7U-xwCGkfFiOZWVyVxbFE1mOM71_AJPFA" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/ddgksf2013/Scripts/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="b2e507GyS9x9I3mwjme44kg0tiUTFd2SQQ-m3uJB1DNKdcRz_fuwxqjqhblSzJcIQgb0Z-7V6RT4hEYhHsOoJQ" autocomplete="off" />
+          <input type="hidden" value="ppTI6ca2_b1Dv3GdT-I8v6p0jGNf0JZMbijo8ykwJQSDhrVJiv8Gp5Z2jZSTSRNVoEbOIaIQosrXowgM1bJZEg" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:572352256,&quot;originating_url&quot;:&quot;https://github.com/ddgksf2013/Scripts/blob/master/bdcloud.js&quot;,&quot;user_id&quot;:62687832}}" data-hydro-click-hmac="62cecdb49f518c5a58f591b1a3d6f0d2951b49182ae8dd8d5f782074ad7e5666" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (33)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:572352256,&quot;originating_url&quot;:&quot;https://github.com/ddgksf2013/Scripts/blob/master/amap.js&quot;,&quot;user_id&quot;:62687832}}" data-hydro-click-hmac="52a6323a9d85c5ddf4e17c7b9d3515d0628628ff4b7797895109312aa003b521" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (33)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2017,13 +2017,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-277a78">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-779fee">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-277a78"
+        id="filter-menu-779fee"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2044,9 +2044,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/ddgksf2013/Scripts/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="blwmDVO4JF6YaGyd9GNOmZXZClA5smNxrWJG6_izdvmnzPyTHXZU5VMpeF9XOsIQDkc6pGJmGiIB7vLq33KfcA" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/ddgksf2013/Scripts/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sE62PO_x5RQmNIpY5bCxh735oShZeOgSjLqrMV46E9153myioT-Vr-11nppG6T0OJmeR3AKskUEgNh8wefv6VA" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:572352256,&quot;originating_url&quot;:&quot;https://github.com/ddgksf2013/Scripts/blob/master/bdcloud.js&quot;,&quot;user_id&quot;:62687832}}" data-hydro-click-hmac="236fc087e7c5fdd630a10bbd6d2c426f34c7cce42eacebc4bbe18eaae90c26d3" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (33)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:572352256,&quot;originating_url&quot;:&quot;https://github.com/ddgksf2013/Scripts/blob/master/amap.js&quot;,&quot;user_id&quot;:62687832}}" data-hydro-click-hmac="90cbbac7d04c0ee3eadd45fd72e5ddb39cecfcfe4ba1d5b56973289f314220ce" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (33)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2064,13 +2064,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-277a78">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-779fee">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-277a78"
+        id="filter-menu-779fee"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2257,7 +2257,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/ddgksf2013/Scripts/blob/0a812831086da6b6209f87625fbd7148b1141d66/bdcloud.js">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/ddgksf2013/Scripts/blob/0a812831086da6b6209f87625fbd7148b1141d66/amap.js">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2265,7 +2265,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:572352256,&quot;originating_url&quot;:&quot;https://github.com/ddgksf2013/Scripts/blob/master/bdcloud.js&quot;,&quot;user_id&quot;:62687832}}" data-hydro-click-hmac="d971d76711443f4c74afe2ac5f694c804681f3c76d007f6d90bc1d6479d7980c">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:572352256,&quot;originating_url&quot;:&quot;https://github.com/ddgksf2013/Scripts/blob/master/amap.js&quot;,&quot;user_id&quot;:62687832}}" data-hydro-click-hmac="19eafa30427c35da3a8d2e8220ee3dc5d636c571f6026cde2d4163144f01b111">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2346,7 +2346,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/ddgksf2013/Scripts/blob/{{ urlEncodedRefName }}/bdcloud.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/ddgksf2013/Scripts/blob/{{ urlEncodedRefName }}/amap.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2388,7 +2388,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/ddgksf2013/Scripts/blob/{{ urlEncodedRefName }}/bdcloud.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/ddgksf2013/Scripts/blob/{{ urlEncodedRefName }}/amap.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2449,9 +2449,9 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/ddgksf2013/Scripts"><span>Scripts</span></a></span></span><span class="separator">/</span><strong class="final-path">bdcloud.js</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/ddgksf2013/Scripts"><span>Scripts</span></a></span></span><span class="separator">/</span><strong class="final-path">amap.js</strong>
       <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
-    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:572352256,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/ddgksf2013/Scripts/blob/master/bdcloud.js&quot;,&quot;user_id&quot;:62687832}}" data-hydro-click-hmac="d1e29a2b1edd48e6fcfc1ea5d4c1a1cf5ae4dbae84c5a213c2501ea2807ef090" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:572352256,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/ddgksf2013/Scripts/blob/master/amap.js&quot;,&quot;user_id&quot;:62687832}}" data-hydro-click-hmac="323e3db4223db7f568ae3be65275fc11e76a5c7048bd0a36bbc486db643dc5e4" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
     <span data-menu-button>Jump to</span>
@@ -2479,7 +2479,19 @@
         </div>
       <div class="SelectMenu-list">
         <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
-        </div>
+            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:572352256,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/ddgksf2013/Scripts/blob/master/amap.js&quot;,&quot;user_id&quot;:62687832}}" data-hydro-click-hmac="4f94660338ea669377895e63779d561d5bd06d8d3af2d03822ccfbc2eafc8c9d" href="/ddgksf2013/Scripts/blob/master/amap.js#L58">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>_0xdca8x6</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:572352256,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/ddgksf2013/Scripts/blob/master/amap.js&quot;,&quot;user_id&quot;:62687832}}" data-hydro-click-hmac="4f94660338ea669377895e63779d561d5bd06d8d3af2d03822ccfbc2eafc8c9d" href="/ddgksf2013/Scripts/blob/master/amap.js#L58">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>_0xdca8x5</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>        </div>
       </div>
       <footer class="SelectMenu-footer">
         <div class="d-flex flex-justify-between">
@@ -2501,7 +2513,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:572352256,&quot;originating_url&quot;:&quot;https://github.com/ddgksf2013/Scripts/blob/master/bdcloud.js&quot;,&quot;user_id&quot;:62687832}}" data-hydro-click-hmac="44f83a6eb8e0ae6439915581b5c52493a2e59b5eecd15a42dc71ed62e3d3e339" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/ddgksf2013/Scripts/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:572352256,&quot;originating_url&quot;:&quot;https://github.com/ddgksf2013/Scripts/blob/master/amap.js&quot;,&quot;user_id&quot;:62687832}}" data-hydro-click-hmac="12474b49dfddd324bdf0bc39e7992e875d5f500db687aefe5db40e202d5356ad" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/ddgksf2013/Scripts/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2519,13 +2531,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="bdcloud.js" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="amap.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/ddgksf2013/Scripts/blob/0a812831086da6b6209f87625fbd7148b1141d66/bdcloud.js" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/ddgksf2013/Scripts/blob/0a812831086da6b6209f87625fbd7148b1141d66/amap.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2557,7 +2569,7 @@
     <include-fragment src="/ddgksf2013/Scripts/spoofed_commit_check/0a812831086da6b6209f87625fbd7148b1141d66" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/ddgksf2013/Scripts/contributors/master/bdcloud.js" class="commit-loader">
+  <include-fragment src="/ddgksf2013/Scripts/contributors/master/amap.js" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2591,23 +2603,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      1 lines (1 sloc)
+      58 lines (35 sloc)
       <span class="file-info-divider"></span>
-    1.23 KB
+    6.01 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/ddgksf2013/Scripts/raw/0a812831086da6b6209f87625fbd7148b1141d66/bdcloud.js" href="/ddgksf2013/Scripts/raw/master/bdcloud.js" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/ddgksf2013/Scripts/blame/0a812831086da6b6209f87625fbd7148b1141d66/bdcloud.js" href="/ddgksf2013/Scripts/blame/master/bdcloud.js" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/ddgksf2013/Scripts/raw/0a812831086da6b6209f87625fbd7148b1141d66/amap.js" href="/ddgksf2013/Scripts/raw/master/amap.js" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/ddgksf2013/Scripts/blame/0a812831086da6b6209f87625fbd7148b1141d66/amap.js" href="/ddgksf2013/Scripts/blame/master/amap.js" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/ddgksf2013/Scripts/edit/master/bdcloud.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GioQaaZQZ51z1B9WAv8H-jD5pQB1IaJE89Pqpw7MOl8w5OMOO0OyML5WCPmtwTGQHgeZnQo7gjeMs5vXqsrdjw" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/ddgksf2013/Scripts/edit/master/amap.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SQDS7brEnJTDnFr_P70jN6bu2C2Wd4_dVbI4YYOVHd86iEh7Uz0rRePc5dwm8ZV6RtD2niyY3DGh7oFYmN8P2g" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2617,7 +2629,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/ddgksf2013/Scripts/edit/master/bdcloud.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="0KjMGoXQzBlB5CDv9Ccdz88WIS-wSnq68C_Mzw6e7hr6Zj99GMMZtIxmN0BbGSul4egdss9QWsmPT72_qpgJyg" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/ddgksf2013/Scripts/edit/master/amap.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wztz2jA8c00QtRnv3rSi4AfoVO7SjmoSToi6ZoNNO1Kws-lM2cXEnDD1pszH-BSt59Z6XWhhOf661ANfmAcpVw" autocomplete="off" />
               <button title="Fork this repository and edit the file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2636,10 +2648,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/ddgksf2013/Scripts/raw/0a812831086da6b6209f87625fbd7148b1141d66/bdcloud.js" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/ddgksf2013/Scripts/raw/0a812831086da6b6209f87625fbd7148b1141d66/amap.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:572352256,&quot;originating_url&quot;:&quot;https://github.com/ddgksf2013/Scripts/blob/master/bdcloud.js&quot;,&quot;user_id&quot;:62687832}}" data-hydro-click-hmac="aab953cc86bd1c9a4577f9ed0066557868fe0a1974877cc21299226063856b61" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:572352256,&quot;originating_url&quot;:&quot;https://github.com/ddgksf2013/Scripts/blob/master/amap.js&quot;,&quot;user_id&quot;:62687832}}" data-hydro-click-hmac="43132fac752d7569ade350c3df6cb3e62f3bc4fedfc4c03392428049700a1580" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2664,7 +2676,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/ddgksf2013/Scripts/delete/master/bdcloud.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9i2-fBIBWz8rYrhhqAcnftVe8mrXPrKpgQXa1tWmSlvNKTJ2K_I6K2izMa2Q6L_x2t6HZeTtBVhQTamCLvlLwg" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/ddgksf2013/Scripts/delete/master/amap.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MrTIPvmKbpTnynh2ffxOTNPe4cZKb2s950GE9E7Qc2ZnBrnxKe3voRT-F9mTXPJNUEmgRApug-Dm7ODY5ELBSg" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2697,15 +2709,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/ddgksf2013/Scripts/raw/master/bdcloud.js">
+            <a class="dropdown-item" href="/ddgksf2013/Scripts/raw/master/amap.js">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/ddgksf2013/Scripts/raw/master/bdcloud.js" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/ddgksf2013/Scripts/raw/master/amap.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:572352256,&quot;originating_url&quot;:&quot;https://github.com/ddgksf2013/Scripts/blob/master/bdcloud.js&quot;,&quot;user_id&quot;:62687832}}" data-hydro-click-hmac="aab953cc86bd1c9a4577f9ed0066557868fe0a1974877cc21299226063856b61">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:572352256,&quot;originating_url&quot;:&quot;https://github.com/ddgksf2013/Scripts/blob/master/amap.js&quot;,&quot;user_id&quot;:62687832}}" data-hydro-click-hmac="43132fac752d7569ade350c3df6cb3e62f3bc4fedfc4c03392428049700a1580">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2728,20 +2740,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/ddgksf2013/Scripts/blame/master/bdcloud.js">
+              <a class="dropdown-item" href="/ddgksf2013/Scripts/blame/master/amap.js">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/ddgksf2013/Scripts/edit/master/bdcloud.js">Edit file</a>
+                <a class="dropdown-item" href="/ddgksf2013/Scripts/edit/master/amap.js">Edit file</a>
               </li>
                 <li>
                   <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:572352256,&quot;actor_id&quot;:62687832,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/ddgksf2013/Scripts/delete/master/bdcloud.js">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/ddgksf2013/Scripts/delete/master/amap.js">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2778,10 +2790,250 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JavaScript" data-tagsearch-path="bdcloud.js">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JavaScript" data-tagsearch-path="amap.js">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-en>$done</span><span class=pl-kos>(</span><span class=pl-kos>{</span><span class=pl-c1>body</span>:<span class=pl-c1>JSON</span><span class=pl-kos>[</span><span class=pl-s>&#39;\x73\x74\x72\x69\x6e\x67\x69\x66\x79&#39;</span><span class=pl-kos>]</span><span class=pl-kos>(</span><span class=pl-s1>obj</span><span class=pl-c1>=</span><span class=pl-kos>{</span><span class=pl-c1>product_infos</span>:<span class=pl-kos>[</span><span class=pl-kos>{</span><span class=pl-c1>product_id</span>:<span class=pl-s>&quot;\x35\x33\x31\x30\x38\x39\x37\x37\x39\x32\x31\x32\x38\x36\x33\x33\x33\x39\x30&quot;</span><span class=pl-kos>,</span><span class=pl-c1>start_time</span>:<span class=pl-c1>1417260485</span><span class=pl-kos>,</span><span class=pl-c1>end_time</span>:<span class=pl-c1>3147483648</span><span class=pl-kos>,</span><span class=pl-c1>buy_time</span>:<span class=pl-s>&quot;\x31\x34\x31\x37\x32\x36\x30\x34\x38\x35&quot;</span><span class=pl-kos>,</span><span class=pl-c1>cluster</span>:<span class=pl-s>&quot;\x6f\x66\x66\x6c\x69\x6e\x65\x64\x6c&quot;</span><span class=pl-kos>,</span><span class=pl-c1>detail_cluster</span>:<span class=pl-s>&quot;\x6f\x66\x66\x6c\x69\x6e\x65\x64\x6c&quot;</span><span class=pl-kos>,</span><span class=pl-c1>product_name</span>:<span class=pl-s>&quot;\x67\x7a\x5f\x74\x65\x6c\x65\x63\x6f\x6d\x5f\x65\x78\x70&quot;</span><span class=pl-kos>}</span><span class=pl-kos>,</span><span class=pl-kos>{</span><span class=pl-c1>product_name</span>:<span class=pl-s>&quot;\x73\x76\x69\x70\x32\x5f\x6e\x64&quot;</span><span class=pl-kos>,</span><span class=pl-c1>product_description</span>:<span class=pl-s>&quot;\u8d85\u7ea7\u4f1a\u5458&quot;</span><span class=pl-kos>,</span><span class=pl-c1>function_num</span>:<span class=pl-c1>0</span><span class=pl-kos>,</span><span class=pl-c1>start_time</span>:<span class=pl-c1>1553702399</span><span class=pl-kos>,</span><span class=pl-c1>buy_description</span>:<span class=pl-s>&quot;&quot;</span><span class=pl-kos>,</span><span class=pl-c1>buy_time</span>:<span class=pl-c1>0</span><span class=pl-kos>,</span><span class=pl-c1>product_id</span>:<span class=pl-s>&quot;\x31&quot;</span><span class=pl-kos>,</span><span class=pl-c1>auto_upgrade_to_svip</span>:<span class=pl-c1>0</span><span class=pl-kos>,</span><span class=pl-c1>end_time</span>:<span class=pl-c1>3672502399</span><span class=pl-kos>,</span><span class=pl-c1>cluster</span>:<span class=pl-s>&quot;\x76\x69\x70&quot;</span><span class=pl-kos>,</span><span class=pl-c1>detail_cluster</span>:<span class=pl-s>&quot;\x73\x76\x69\x70&quot;</span><span class=pl-kos>,</span><span class=pl-c1>status</span>:<span class=pl-c1>0</span><span class=pl-kos>}</span><span class=pl-kos>]</span><span class=pl-kos>,</span><span class=pl-c1>currenttime</span>:<span class=pl-c1>1573473597</span><span class=pl-kos>,</span><span class=pl-c1>reminder</span>:<span class=pl-kos>{</span><span class=pl-c1>reminderWithContent</span>:<span class=pl-kos>[</span><span class=pl-kos>]</span><span class=pl-kos>,</span><span class=pl-c1>advertiseContent</span>:<span class=pl-kos>[</span><span class=pl-kos>]</span><span class=pl-kos>}</span><span class=pl-kos>,</span><span class=pl-c1>request_id</span>:<span class=pl-c1>0x681c020293b79000</span><span class=pl-kos>,</span><span class=pl-c1>guide_data</span>:<span class=pl-kos>{</span><span class=pl-c1>title</span>:<span class=pl-s>&quot;\u8d85\u7ea7\u4f1a\u5458 \x53\x56\x49\x50&quot;</span><span class=pl-kos>,</span><span class=pl-c1>content</span>:<span class=pl-s>&quot;\u5df2\u62e5\u6709\u6781\u901f\u4e0b\u8f7d\x2b\u89c6\u9891\u500d\u901f\u7279\u6743&quot;</span><span class=pl-kos>,</span><span class=pl-c1>button</span>:<span class=pl-kos>{</span><span class=pl-c1>text</span>:<span class=pl-s>&quot;\u4f1a\u5458\u4e2d\u5fc3&quot;</span><span class=pl-kos>,</span><span class=pl-c1>action_url</span>:<span class=pl-s>&quot;\x68\x74\x74\x70\x73\x3a\x2f\x2f\x70\x61\x6e\x2e\x62\x61\x69\x64\x75\x2e\x63\x6f\x6d\x2f\x77\x61\x70\x2f\x76\x69\x70\x2f\x75\x73\x65\x72\x3f\x66\x72\x6f\x6d\x3d\x6d\x79\x76\x69\x70\x32\x23\x73\x76\x69\x70&quot;</span><span class=pl-kos>}</span><span class=pl-kos>}</span><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c>/***********************************</span></td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-c></span></td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-c>&gt; 应用名称：高德地图APP净化</span></td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-c>&gt; 软件版本：12.2.10</span></td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class=pl-c>&gt; 脚本作者：ddgksf2013</span></td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class=pl-c>&gt; 微信账号：墨鱼手记</span></td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-c>&gt; 更新时间：2023-01-04</span></td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class=pl-c>&gt; 脚本版本：V1.0.6</span></td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class=pl-c>&gt; 脚本功能：处理开屏、首页下方推广、我的页面推广、搜索框热词、搜索框下方热榜、首页顶部推广、首页左上角gif</span></td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class=pl-c>&gt; 通知频道：https://t.me/ddgksf2021</span></td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class=pl-c>&gt; 贡献投稿：https://t.me/ddgksf2013_bot</span></td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class=pl-c>&gt; 问题反馈：ddgksf2013@163.com</span></td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class=pl-c>&gt; 特别提醒：如需转载请注明出处，谢谢合作！</span></td>
+        </tr>
+        <tr>
+          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class=pl-c>&gt; 特别说明：⚠️⚠️⚠️</span></td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class=pl-c>          本脚本仅供学习交流使用，禁止转载、售卖</span></td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class=pl-c>          ⚠️⚠️⚠️</span></td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class=pl-c></span></td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class=pl-c>使用步骤：</span></td>
+        </tr>
+        <tr>
+          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class=pl-c></span></td>
+        </tr>
+        <tr>
+          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class=pl-c>1、QuantumultX本地添加分流</span></td>
+        </tr>
+        <tr>
+          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class=pl-c>host, amdc.m.taobao.com, reject</span></td>
+        </tr>
+        <tr>
+          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class=pl-c></span></td>
+        </tr>
+        <tr>
+          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class=pl-c>2、卸载高德地图APP并重新安装（如果已安装）</span></td>
+        </tr>
+        <tr>
+          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class=pl-c></span></td>
+        </tr>
+        <tr>
+          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class=pl-c>3、在QuantumultX处于运行环境下打开高德地图并登陆</span></td>
+        </tr>
+        <tr>
+          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class=pl-c></span></td>
+        </tr>
+        <tr>
+          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class=pl-c>4、如果QuantumultX未运行就打开高德地图会致使脚本不生效需卸载重新安装（后续解决）</span></td>
+        </tr>
+        <tr>
+          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class=pl-c></span></td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class=pl-c>[rewrite_local]</span></td>
+        </tr>
+        <tr>
+          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line"><span class=pl-c></span></td>
+        </tr>
+        <tr>
+          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line"><span class=pl-c># ～ 高德地图☆净化（2023-01-04）@ddgksf2013</span></td>
+        </tr>
+        <tr>
+          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class=pl-c>^https?:\/\/m5\.amap\.com\/ws\/faas\/amap-navigation\/main-page url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/amap.js</span></td>
+        </tr>
+        <tr>
+          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line"><span class=pl-c>^https?:\/\/m5\.amap\.com\/ws\/asa\/ads_attribution url reject</span></td>
+        </tr>
+        <tr>
+          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class=pl-c>^https?:\/\/m5\.amap\.com\/ws\/valueadded\/alimama\/splash_screen url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/amap.js</span></td>
+        </tr>
+        <tr>
+          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line"><span class=pl-c>^https?:\/\/sns\.amap\.com\/ws\/msgbox\/pull url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/amap.js</span></td>
+        </tr>
+        <tr>
+          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line"><span class=pl-c>^https?:\/\/m5\.amap\.com\/ws\/shield\/dsp\/profile\/index\/nodefaas url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/amap.js</span></td>
+        </tr>
+        <tr>
+          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line"><span class=pl-c>^https?:\/\/m5\.amap\.com\/ws\/shield\/search\/new_hotword url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/amap.js</span></td>
+        </tr>
+        <tr>
+          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line"><span class=pl-c>^https?:\/\/m5\.amap\.com\/ws\/shield\/scene\/recommend url reject-dict</span></td>
+        </tr>
+        <tr>
+          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class=pl-c>^https?:\/\/optimus-ads\.amap\.com\/uploadimg\/\w+\.gif url reject-img</span></td>
+        </tr>
+        <tr>
+          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
+          <td id="LC40" class="blob-code blob-code-inner js-file-line"><span class=pl-c></span></td>
+        </tr>
+        <tr>
+          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line"><span class=pl-c>[mitm] </span></td>
+        </tr>
+        <tr>
+          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
+          <td id="LC42" class="blob-code blob-code-inner js-file-line"><span class=pl-c></span></td>
+        </tr>
+        <tr>
+          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
+          <td id="LC43" class="blob-code blob-code-inner js-file-line"><span class=pl-c>hostname=optimus-ads.amap.com, m5.amap.com, sns.amap.com</span></td>
+        </tr>
+        <tr>
+          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
+          <td id="LC44" class="blob-code blob-code-inner js-file-line"><span class=pl-c></span></td>
+        </tr>
+        <tr>
+          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
+          <td id="LC45" class="blob-code blob-code-inner js-file-line"><span class=pl-c>***********************************/</span></td>
+        </tr>
+        <tr>
+          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
+          <td id="LC46" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
+          <td id="LC47" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
+          <td id="LC48" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
+          <td id="LC49" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
+          <td id="LC50" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
+          <td id="LC51" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
+          <td id="LC52" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
+          <td id="LC53" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
+          <td id="LC54" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
+          <td id="LC55" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
+          <td id="LC56" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
+          <td id="LC57" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
+          <td id="LC58" class="blob-code blob-code-inner js-file-line"><span class=pl-k>var</span> <span class=pl-s1>__encode</span> <span class=pl-c1>=</span><span class=pl-s>&#39;jsjiami.com&#39;</span><span class=pl-kos>,</span><span class=pl-s1>_a</span><span class=pl-c1>=</span><span class=pl-kos>{</span><span class=pl-kos>}</span><span class=pl-kos>,</span> <span class=pl-s1>_0xb483</span><span class=pl-c1>=</span><span class=pl-kos>[</span><span class=pl-s>&quot;\x5F\x64\x65\x63\x6F\x64\x65&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x68\x74\x74\x70\x3A\x2F\x2F\x77\x77\x77\x2E\x73\x6F\x6A\x73\x6F\x6E\x2E\x63\x6F\x6D\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74\x6F\x62\x66\x75\x73\x63\x61\x74\x6F\x72\x2E\x68\x74\x6D\x6C&quot;</span><span class=pl-kos>]</span><span class=pl-kos>;</span><span class=pl-kos>(</span><span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-s1>_0xd642x1</span><span class=pl-kos>)</span><span class=pl-kos>{</span><span class=pl-s1>_0xd642x1</span><span class=pl-kos>[</span><span class=pl-s1>_0xb483</span><span class=pl-kos>[</span><span class=pl-c1>0</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-c1>=</span> <span class=pl-s1>_0xb483</span><span class=pl-kos>[</span><span class=pl-c1>1</span><span class=pl-kos>]</span><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>(</span><span class=pl-s1>_a</span><span class=pl-kos>)</span><span class=pl-kos>;</span><span class=pl-k>var</span> <span class=pl-s1>__Oxf2fb5</span><span class=pl-c1>=</span><span class=pl-kos>[</span><span class=pl-s>&quot;\x62\x6F\x64\x79&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x70\x61\x72\x73\x65&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x76\x61\x6C\x75\x65\x61\x64\x64\x65\x64\x2F\x61\x6C\x69\x6D\x61\x6D\x61\x2F\x73\x70\x6C\x61\x73\x68\x5F\x73\x63\x72\x65\x65\x6E&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x69\x6E\x64\x65\x78\x4F\x66&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x75\x72\x6C&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x64\x61\x74\x61&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x61\x64&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x64\x69\x73\x70\x6C\x61\x79\x5F\x74\x69\x6D\x65&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x73\x65\x74\x74\x69\x6E\x67&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x73\x65\x74&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x73\x74\x61\x72\x74\x5F\x74\x69\x6D\x65&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x63\x72\x65\x61\x74\x69\x76\x65&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x65\x6E\x64\x5F\x74\x69\x6D\x65&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x73\x74\x72\x69\x6E\x67\x69\x66\x79&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x66\x61\x61\x73\x2F\x61\x6D\x61\x70\x2D\x6E\x61\x76\x69\x67\x61\x74\x69\x6F\x6E\x2F\x6D\x61\x69\x6E\x2D\x70\x61\x67\x65&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x63\x61\x72\x64\x4C\x69\x73\x74&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x64\x61\x74\x61\x54\x79\x70\x65&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x4C\x6F\x67\x69\x6E\x43\x61\x72\x64&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x66\x69\x6C\x74\x65\x72&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x76\x61\x6C\x75\x65\x73&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x70\x72\x6F\x66\x69\x6C\x65\x2F\x69\x6E\x64\x65\x78\x2F\x6E\x6F\x64\x65&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x74\x69\x70\x44\x61\x74\x61&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x4D\x79\x4F\x72\x64\x65\x72\x43\x61\x72\x64&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x47\x64\x52\x65\x63\x6F\x6D\x6D\x65\x6E\x64\x43\x61\x72\x64&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x6E\x65\x77\x5F\x68\x6F\x74\x77\x6F\x72\x64&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x68\x65\x61\x64\x65\x72\x5F\x68\x6F\x74\x77\x6F\x72\x64&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x77\x73\x2F\x6D\x73\x67\x62\x6F\x78\x2F\x70\x75\x6C\x6C&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x6D\x73\x67\x73&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x75\x6E\x64\x65\x66\x69\x6E\x65\x64&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x6C\x6F\x67&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\u5220\u9664&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\u7248\u672C\u53F7\uFF0C\x6A\x73\u4F1A\u5B9A&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\u671F\u5F39\u7A97\uFF0C&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\u8FD8\u8BF7\u652F\u6301\u6211\u4EEC\u7684\u5DE5\u4F5C&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x6A\x73\x6A\x69\x61&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;\x6D\x69\x2E\x63\x6F\x6D&quot;</span><span class=pl-kos>]</span><span class=pl-kos>;</span><span class=pl-k>var</span> <span class=pl-s1>obj</span><span class=pl-c1>=</span><span class=pl-c1>JSON</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x1</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>(</span><span class=pl-s1>$response</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x0</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-kos>;</span><span class=pl-k>if</span><span class=pl-kos>(</span><span class=pl-s1>$request</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x4</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x3</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>(</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x2</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-c1>!=</span>  <span class=pl-c1>-</span><span class=pl-c1>1</span><span class=pl-kos>)</span><span class=pl-kos>{</span><span class=pl-k>if</span><span class=pl-kos>(</span><span class=pl-s1>obj</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x5</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-c1>&amp;&amp;</span> <span class=pl-s1>obj</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x5</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x6</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-kos>{</span><span class=pl-k>for</span><span class=pl-kos>(</span><span class=pl-k>let</span> <span class=pl-s1>item</span> <span class=pl-k>of</span> <span class=pl-s1>obj</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x5</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x6</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-kos>{</span><span class=pl-s1>item</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x9</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x8</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x7</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-c1>=</span> <span class=pl-c1>0</span><span class=pl-kos>;</span><span class=pl-s1>item</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0xb</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>[</span><span class=pl-c1>0x0</span><span class=pl-kos>]</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0xa</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-c1>=</span> <span class=pl-c1>2240150400</span><span class=pl-kos>;</span><span class=pl-s1>item</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0xb</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>[</span><span class=pl-c1>0x0</span><span class=pl-kos>]</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0xc</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-c1>=</span> <span class=pl-c1>2240150400</span><span class=pl-kos>}</span><span class=pl-kos>}</span><span class=pl-kos>;</span><span class=pl-en>$done</span><span class=pl-kos>(</span><span class=pl-kos>{</span><span class=pl-c1>body</span>:<span class=pl-c1>JSON</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0xd</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>(</span><span class=pl-s1>obj</span><span class=pl-kos>)</span><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>}</span><span class=pl-k>else</span> <span class=pl-kos>{</span><span class=pl-k>if</span><span class=pl-kos>(</span><span class=pl-s1>$request</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x4</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x3</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>(</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0xe</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-c1>!=</span>  <span class=pl-c1>-</span><span class=pl-c1>1</span><span class=pl-kos>)</span><span class=pl-kos>{</span><span class=pl-k>if</span><span class=pl-kos>(</span><span class=pl-s1>obj</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x5</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-c1>&amp;&amp;</span> <span class=pl-s1>obj</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x5</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0xf</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-kos>{</span><span class=pl-s1>obj</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x5</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0xf</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-c1>=</span> <span class=pl-v>Object</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x13</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>(</span><span class=pl-s1>obj</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x5</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0xf</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x12</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>(</span><span class=pl-kos>(</span><span class=pl-s1>item</span><span class=pl-kos>)</span><span class=pl-c1>=&gt;</span><span class=pl-kos>{</span><span class=pl-k>return</span> <span class=pl-kos>(</span><span class=pl-s1>item</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x10</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-c1>==</span> <span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x11</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>}</span><span class=pl-kos>;</span><span class=pl-en>$done</span><span class=pl-kos>(</span><span class=pl-kos>{</span><span class=pl-c1>body</span>:<span class=pl-c1>JSON</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0xd</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>(</span><span class=pl-s1>obj</span><span class=pl-kos>)</span><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>}</span><span class=pl-k>else</span> <span class=pl-kos>{</span><span class=pl-k>if</span><span class=pl-kos>(</span><span class=pl-s1>$request</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x4</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x3</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>(</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x14</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-c1>!=</span>  <span class=pl-c1>-</span><span class=pl-c1>1</span><span class=pl-kos>)</span><span class=pl-kos>{</span><span class=pl-k>delete</span> <span class=pl-s1>obj</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x5</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x15</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>;</span><span class=pl-k>if</span><span class=pl-kos>(</span><span class=pl-s1>obj</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x5</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-c1>&amp;&amp;</span> <span class=pl-s1>obj</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x5</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0xf</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-kos>{</span><span class=pl-s1>obj</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x5</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0xf</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-c1>=</span> <span class=pl-v>Object</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x13</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>(</span><span class=pl-s1>obj</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x5</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0xf</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x12</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>(</span><span class=pl-kos>(</span><span class=pl-s1>item</span><span class=pl-kos>)</span><span class=pl-c1>=&gt;</span><span class=pl-kos>{</span><span class=pl-k>return</span> <span class=pl-kos>(</span><span class=pl-s1>item</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x10</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-c1>==</span> <span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x16</span><span class=pl-kos>]</span><span class=pl-c1>||</span> <span class=pl-s1>item</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x10</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-c1>==</span> <span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x17</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>}</span><span class=pl-kos>;</span><span class=pl-en>$done</span><span class=pl-kos>(</span><span class=pl-kos>{</span><span class=pl-c1>body</span>:<span class=pl-c1>JSON</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0xd</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>(</span><span class=pl-s1>obj</span><span class=pl-kos>)</span><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>}</span><span class=pl-k>else</span> <span class=pl-kos>{</span><span class=pl-k>if</span><span class=pl-kos>(</span><span class=pl-s1>$request</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x4</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x3</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>(</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x18</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-c1>!=</span>  <span class=pl-c1>-</span><span class=pl-c1>1</span><span class=pl-kos>)</span><span class=pl-kos>{</span><span class=pl-k>if</span><span class=pl-kos>(</span><span class=pl-s1>obj</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x5</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-c1>&amp;&amp;</span> <span class=pl-s1>obj</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x5</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x19</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-kos>{</span><span class=pl-s1>obj</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x5</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x19</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-c1>=</span> <span class=pl-kos>[</span><span class=pl-kos>]</span><span class=pl-kos>}</span><span class=pl-kos>;</span><span class=pl-en>$done</span><span class=pl-kos>(</span><span class=pl-kos>{</span><span class=pl-c1>body</span>:<span class=pl-c1>JSON</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0xd</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>(</span><span class=pl-s1>obj</span><span class=pl-kos>)</span><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>}</span><span class=pl-k>else</span> <span class=pl-kos>{</span><span class=pl-k>if</span><span class=pl-kos>(</span><span class=pl-s1>$request</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x4</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x3</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>(</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x1a</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-c1>!=</span>  <span class=pl-c1>-</span><span class=pl-c1>1</span><span class=pl-kos>)</span><span class=pl-kos>{</span><span class=pl-k>if</span><span class=pl-kos>(</span><span class=pl-s1>obj</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x1b</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-kos>{</span><span class=pl-s1>obj</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x1b</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-c1>=</span> <span class=pl-kos>[</span><span class=pl-kos>]</span><span class=pl-kos>}</span><span class=pl-kos>;</span><span class=pl-en>$done</span><span class=pl-kos>(</span><span class=pl-kos>{</span><span class=pl-c1>body</span>:<span class=pl-c1>JSON</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0xd</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>(</span><span class=pl-s1>obj</span><span class=pl-kos>)</span><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>}</span><span class=pl-k>else</span> <span class=pl-kos>{</span><span class=pl-en>$done</span><span class=pl-kos>(</span><span class=pl-s1>$response</span><span class=pl-kos>)</span><span class=pl-kos>}</span><span class=pl-kos>}</span><span class=pl-kos>}</span><span class=pl-kos>}</span><span class=pl-kos>}</span><span class=pl-kos>;</span><span class=pl-kos>(</span><span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-s1>_0xdca8x3</span><span class=pl-kos>,</span><span class=pl-s1>_0xdca8x4</span><span class=pl-kos>,</span><span class=pl-s1>_0xdca8x5</span><span class=pl-kos>,</span><span class=pl-s1>_0xdca8x6</span><span class=pl-kos>,</span><span class=pl-s1>_0xdca8x7</span><span class=pl-kos>,</span><span class=pl-s1>_0xdca8x8</span><span class=pl-kos>)</span><span class=pl-kos>{</span><span class=pl-s1>_0xdca8x8</span><span class=pl-c1>=</span> <span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x1c</span><span class=pl-kos>]</span><span class=pl-kos>;</span><span class=pl-s1>_0xdca8x6</span><span class=pl-c1>=</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-s1>_0xdca8x9</span><span class=pl-kos>)</span><span class=pl-kos>{</span><span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-k>typeof</span> <span class=pl-s1>alert</span><span class=pl-c1>!==</span> <span class=pl-s1>_0xdca8x8</span><span class=pl-kos>)</span><span class=pl-kos>{</span><span class=pl-en>alert</span><span class=pl-kos>(</span><span class=pl-s1>_0xdca8x9</span><span class=pl-kos>)</span><span class=pl-kos>}</span><span class=pl-kos>;</span><span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-k>typeof</span> <span class=pl-smi>console</span><span class=pl-c1>!==</span> <span class=pl-s1>_0xdca8x8</span><span class=pl-kos>)</span><span class=pl-kos>{</span><span class=pl-smi>console</span><span class=pl-kos>[</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x1d</span><span class=pl-kos>]</span><span class=pl-kos>]</span><span class=pl-kos>(</span><span class=pl-s1>_0xdca8x9</span><span class=pl-kos>)</span><span class=pl-kos>}</span><span class=pl-kos>}</span><span class=pl-kos>;</span><span class=pl-s1>_0xdca8x5</span><span class=pl-c1>=</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-s1>_0xdca8xa</span><span class=pl-kos>,</span><span class=pl-s1>_0xdca8x3</span><span class=pl-kos>)</span><span class=pl-kos>{</span><span class=pl-k>return</span> <span class=pl-s1>_0xdca8xa</span><span class=pl-c1>+</span> <span class=pl-s1>_0xdca8x3</span><span class=pl-kos>}</span><span class=pl-kos>;</span><span class=pl-s1>_0xdca8x7</span><span class=pl-c1>=</span> <span class=pl-s1>_0xdca8x5</span><span class=pl-kos>(</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x1e</span><span class=pl-kos>]</span><span class=pl-kos>,</span><span class=pl-s1>_0xdca8x5</span><span class=pl-kos>(</span><span class=pl-s1>_0xdca8x5</span><span class=pl-kos>(</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x1f</span><span class=pl-kos>]</span><span class=pl-kos>,</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x20</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-kos>,</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x21</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-kos>)</span><span class=pl-kos>;</span><span class=pl-k>try</span><span class=pl-kos>{</span><span class=pl-s1>_0xdca8x3</span><span class=pl-c1>=</span> <span class=pl-s1>__encode</span><span class=pl-kos>;</span><span class=pl-k>if</span><span class=pl-kos>(</span><span class=pl-c1>!</span><span class=pl-kos>(</span> <span class=pl-k>typeof</span> <span class=pl-s1>_0xdca8x3</span><span class=pl-c1>!==</span> <span class=pl-s1>_0xdca8x8</span><span class=pl-c1>&amp;&amp;</span> <span class=pl-s1>_0xdca8x3</span><span class=pl-c1>===</span> <span class=pl-s1>_0xdca8x5</span><span class=pl-kos>(</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x22</span><span class=pl-kos>]</span><span class=pl-kos>,</span><span class=pl-s1>__Oxf2fb5</span><span class=pl-kos>[</span><span class=pl-c1>0x23</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-kos>)</span><span class=pl-kos>)</span><span class=pl-kos>{</span><span class=pl-s1>_0xdca8x6</span><span class=pl-kos>(</span><span class=pl-s1>_0xdca8x7</span><span class=pl-kos>)</span><span class=pl-kos>}</span><span class=pl-kos>}</span><span class=pl-k>catch</span><span class=pl-kos>(</span><span class=pl-s1>e</span><span class=pl-kos>)</span><span class=pl-kos>{</span><span class=pl-s1>_0xdca8x6</span><span class=pl-kos>(</span><span class=pl-s1>_0xdca8x7</span><span class=pl-kos>)</span><span class=pl-kos>}</span><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>(</span><span class=pl-kos>{</span><span class=pl-kos>}</span><span class=pl-kos>)</span></td>
         </tr>
   </table>
 </div>
@@ -2807,7 +3059,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/ddgksf2013/Scripts/blame/0a812831086da6b6209f87625fbd7148b1141d66/bdcloud.js">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/ddgksf2013/Scripts/blame/0a812831086da6b6209f87625fbd7148b1141d66/amap.js">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/ddgksf2013/Scripts/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
