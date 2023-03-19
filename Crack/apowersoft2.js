@@ -13,7 +13,7 @@
 [rewrite_local]
 
 # ～ 傲软抠图解锁会员权限（2023-03-19）@ddgksf2013
-https://awvp.aoscdn.com/base/vip/v2/vips url script-response-body apowersoft.js
+https://awvp.aoscdn.com/base/vip/v2/vips url script-response-body https://raw.githubusercontent.com/jeddy2020/QX/main/Crack/apowersoft2.js
 
 [mitm] 
 
