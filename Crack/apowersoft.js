@@ -6,9 +6,6 @@
 > 脚本作者：Cuttlefish
 > 微信账号：墨鱼手记
 > 更新时间：2022-09-13
-> 通知频道：https://t.me/ddgksf2021
-> 问题反馈：https://t.me/ddgksf2013_bot
-> 特别说明：本脚本仅供学习交流使用，禁止转载售卖
  
 [rewrite_local]
 
@@ -23,7 +20,7 @@ hostname=*.aoscdn.com
 
 
 
-var cuttlefish ={"warning":"本腳本僅供學習交流使用，禁止轉載售賣","tgchannel":"https://t.me/ddgksf2021","feedback":"https://t.me/ddgksf2013_bot"};
+var cuttlefish ={"warning":"","tgchannel":"","feedback":""};
 var ddgksf2013 = {
   "status" : 200,
   "message" : "success",
