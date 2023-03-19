@@ -17,7 +17,7 @@ hostname=awvp.aoscdn.com
 
 ***********************************/
 
-var Jeddyhuang ={
+var Jeddyhuang={
   "status" : 200,
   "message" : "success",
   "data" : {
