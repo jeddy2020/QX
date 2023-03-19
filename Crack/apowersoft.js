@@ -18,29 +18,24 @@ hostname=*.aoscdn.com
 
 ***********************************/
 
-
-
-var cuttlefish ={"warning":"","tgchannel":"","feedback":""};
-var ddgksf2013 = {
+var ddgksf2013={
   "status" : 200,
   "message" : "success",
   "data" : {
-    "expired_at" : 4045798296,
-    "is_activated" : 1,
-    "is_lifetime" : 1,
-    "expire_time" : "2099-01-01 00:00:00",
-    "device_id" : 600150864,
+    "group_expired_at" : 0,
+    "is_tried" : 0,
+    "max_devices" : 1,
     "period_type" : "active",
-    "remain_days" : 99999,
-    "product_id" : 369,
-    "has_present" : 0,
-    "allowed_device_count" : 1,
-    "has_buy_extend" : 0,
-    "will_expire" : 0,
+    "candy_expired_at" : 0,
+    "pending" : 0,
+    "remained_seconds" : 0,
+    "limit" : 0,
+    "expired_at" : 4045798296,
+    "candy" : 0,
     "license_type" : "premium",
-    "begin_activated_time" : 1645798296,
-    "durations" : 0,
-    "vip_special" : 1
+    "quota" : 0,
+    "status" : 1,
+    "coin" : 100
   }
-};
+}
 $done({body: JSON.stringify(ddgksf2013)});
