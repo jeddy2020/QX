@@ -1,24 +1,23 @@
 /***********************************
 
 > 应用名称：傲软抠图
-> 软件版本：1.6.0
+> 软件版本：1.6.5
 > 下载地址：https://apps.apple.com/cn/app/id1490054676
 > 脚本作者：Cuttlefish
-> 微信账号：墨鱼手记
-> 更新时间：2022-09-13
+> 更新时间：2023.3.18
  
 [rewrite_local]
 
-# ～ 傲软抠图解锁会员权限（2022-09-13）@ddgksf2013
-https?:\/\/.*\.aoscdn\.com\/base\/vip\/client\/authorizations$ url script-response-body https://raw.githubusercontent.com/jeddy2020/QX/main/Crack/apowersoft.js
+# ～ 傲软抠图解锁会员
+https://awvp.aoscdn.com/base/vip/v2/vips url script-response-body https://raw.githubusercontent.com/jeddy2020/QX/main/Crack/apowersoft.js
 
 [mitm] 
 
-hostname=*.aoscdn.com
+hostname=awvp.aoscdn.com
 
 ***********************************/
 
-var ddgksf2013={
+var Jeddyhuang ={
   "status" : 200,
   "message" : "success",
   "data" : {
