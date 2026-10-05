@@ -1,6 +1,22 @@
 /**
  * WOX 小程序每日自动打卡任务
  */
+/* 
+* 
+*
+* [task_local]
+* # 畹町坊打卡,每天早晨 08:30 自动执行打卡
+* 30 8 * * * https://raw.githubusercontent.com/jeddy2020/QX/refs/heads/main/sign/wanding_checkin.js, tag=畹町坊打卡, enabled=true
+*
+* [rewrite_local]
+* # 畹町坊获取token
+^https:\/\/wox2019\.woxshare\.com\/(clientApi|crp)\/ url script-request-header https://raw.githubusercontent.com/jeddy2020/QX/refs/heads/main/sign/wanding_get_token.js
+const TOKEN_KEY = "wox_checkin_token";
+*
+[mitm]
+hostname = woxshare.com
+*
+*/
 const TOKEN_KEY = "wox_checkin_token";
 // 本地暂无新 Token 时使用的备用默认值
 const DEFAULT_TOKEN = "WeixinMiniToken:602:353e4246ad7cfd2be4d438a82b1ba6bb60571b61";
