@@ -6,7 +6,7 @@
 *
 * [task_local]
 * # 畹町坊打卡,每天早晨 08:30 自动执行打卡
-* 30 8 * * * https://raw.githubusercontent.com/<用户名>/<仓库名>/main/wox_checkin.js, tag=畹町坊打卡, enabled=true
+* 30 8 * * * https://raw.githubusercontent.com/jeddy2020/QX/refs/heads/main/sign/wanding_checkin.js, tag=畹町坊打卡, enabled=true
 *
 * [rewrite_local]
 * # 畹町坊获取token
