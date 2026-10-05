@@ -1,8 +1,21 @@
 /**
  * 自动获取 畹町坊 小程序最新 Token
  */
-/* ^https:\/\/wox2019\.woxshare\.com\/(clientApi|crp)\/ url script-request-header https://raw.githubusercontent.com/jeddy2020/QX/refs/heads/main/sign/wanding_get_token.js
+/* 
+* 
+*
+* [task_local]
+* # 畹町坊打卡,每天早晨 08:30 自动执行打卡
+* 30 8 * * * https://raw.githubusercontent.com/<用户名>/<仓库名>/main/wox_checkin.js, tag=畹町坊打卡, enabled=true
+*
+* [rewrite_local]
+* # 畹町坊获取token
+^https:\/\/wox2019\.woxshare\.com\/(clientApi|crp)\/ url script-request-header https://raw.githubusercontent.com/jeddy2020/QX/refs/heads/main/sign/wanding_get_token.js
 const TOKEN_KEY = "wox_checkin_token";
+*
+[mitm]
+hostname = woxshare.com
+*
 */
 
 if ($request &&$request.headers) {
